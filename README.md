@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Pawankumar 👋
 
-<!--
-**PawankumarKharpude27/PawankumarKharpude27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior SDET with 6+ years of experience building enterprise-grade automation frameworks.
 
-Here are some ideas to get you started:
+### Expertise
+- Python
+- Playwright
+- Cypress
+- Selenium
+- Robot Framework
+- REST API Testing
+- WireMock
+- JMeter
+- Jenkins & GitHub Actions
+- Docker & Kubernetes
+- PostgreSQL & MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- Enterprise Automation Frameworks
+- API Testing
+- Performance Testing
+- CI/CD Automation
+- AI-assisted Test Automation
+
+### Looking to Collaborate On
+- Open-Source Automation Projects
+- Python Automation
+- Playwright
+- Cypress
+- Robot Framework
